@@ -29,7 +29,7 @@ class Tasky extends StatelessWidget {
       valueListenable: ThemeController.themeNotifier,
       builder: (context, ThemeMode value, Widget? child) {
         return MaterialApp(
-          title: 'Tasky',
+          title: 'Tasky app',
           debugShowCheckedModeBanner: false,
           theme: lightTheme,
           darkTheme: darkTheme,
