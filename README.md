@@ -69,7 +69,7 @@ Follow these steps to set up and run Tasky locally on your machine:
 
 ### Prerequisites
 - [Flutter SDK](https://docs.flutter.dev/get-started/install) (`^3.12` or higher)
-- [Android Studio](https://developer.android.com/studio) / [VS Code](https://code.visualstudio.com/)
+- [Android Studio](https://developer.android.com/studio)
 - An Android Emulator, iOS Simulator, or connected physical device
 
 ### Installation & Setup
